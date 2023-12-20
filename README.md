@@ -1,7 +1,5 @@
 # JMDU-Net
 
-paper: (A Joint Multi-decoder Dual-attention U-Net Framework for Tumor Segmentation in Whole Slide Images)
+Abdel-Nabi, H., Ali, M.Z. and Awajan, A., 2023. A joint Multi-decoder Dual-attention U-Net framework for tumor segmentation in Whole Slide Images. Journal of King Saud University-Computer and Information Sciences, 35(10), p.101835.
 
-by Heba Abdel-Nabi , Mostafa Z. Ali, Arafat Awajan
-
-The code will be avaliable upon the acceptance of the paper.
+https://www.sciencedirect.com/science/article/pii/S1319157823003890
